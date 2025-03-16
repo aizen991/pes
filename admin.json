@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "ciftec-embroidery",
-  "private_key_id": "16610831772bbf8d19c2269d04b1e3dac175e068",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3A6+5zoozDBTd\nSjcsjoI+mbRaBnNPItzzsURD87zqExMw182KJ1MnzZmYKvBS7V6DAopGi0WeQEdU\nf2a2Am6qQ+nQrk2m5k5XI3ol3nwKdfH2fFoUfLG+tyHeraqe7DYuLgcOutOp9ex0\n3xPKdlS200nYLLmrFZZmuwy1mgv/1dtmY0Ckfie8VJqYZIHT5s1dmRX4YqalnfaH\nT5h2xH+7KujEDoLuKSNg53Q3EKVz2egSOmLc0QOlxgesj1+DOu1I5PZWyolKZU4v\n1VJC9NsgZ1t5KoXMyQJv7gf1nkZzdyWzkZl9RBYLNwGNnHDW9hzwh+EsIPnwqTC/\ndiO+uWTfAgMBAAECggEAB57urVUNaizBnalefMt+Xu71lJ4aJRx1iOxDxHSc1D5x\nGSKTW4JhsxGbqLt5AGsD+X6clW1tO7a/gaRAeanGQ+7KCLeJYj7K2lQO3Q7TqXfZ\n2IK7GYlLuX5UuboPlciORQQDpThgYf5slz1GzLJ6upY3x/mszZP7jFGTqOg+Qavq\n98lGFLlkeOfcuBDXOY0MvAT893/RB+zWbS3NQO08eqYf2pcPsXI5wHVddoU9aGL8\nBtKSKdbE8K9Fx/5a83KKS6NvuF+Foie4QRibU9iIL15lj42Q0iznYBQV9ZE3S0eA\noUAQFbveJJpyIFFlI941d4sI56qK92oAz36BqH48eQKBgQDEobcETHWx/Nx2XKN3\nNbuloONGOnasDb4C7Wr7u0cc4EPCN3A+OBFjn/jY8ScQilZkZvEo1NZTpq0Z+rCH\nRWI8c08FixNJU6qTv4s+oACmggcHYzFlSXQ6PP7vfoaIQjwP1tjsfqseffJBKLNf\nX7hS669gcV7lSXIPIHWuxQCWzQKBgQDuRXKOhOwcmmJR1Jt9xsLomS7q/ntEQZWf\njF0FKlLyfBnaZ5KEE9BX2EdzCl9pC59uHIyU5Fa7rgcnvI080kwZCZR/9qglclWQ\nzjQWCHdwYhjyn/OmroIiEWbKQzNt2MomZT1hr7XHAmDrSUg9V8h/py3TTtZ4p9/2\nnFhvEM7yWwKBgHhJ5cg/bhDAe6385hNbT7v3PJIN2eNPVNo9m6D75HkJyOnbOFMX\nwauMhZNRk3BO8KLjRsyPx73MzUCDV9Ko43vPnpvphJbrFALmvqxE/aDfEqW2TNWF\nphCql9qzMGHTAyM9b97dbplsuvKZj4Hc8MnpXJRHRqJF1/zhAp0z7zRRAoGBAMZE\nl6ysQuUSOlopdjHVIP736Ki2ldAYWu7ml8jijR8l0UWCBdNNwYI3gEzkBrycZU/1\nBa4ny1xk1aNlLIm93IDBDgblMsnmN/lE/OaQqQKlPmk2XEMI11SN8mDARp1TVfNZ\nLxiIY9Rz0D45Ppl84GQIswMwiRrhZmYJdzUEYZAdAoGADBgRzGH73Q6f7UNy4/29\nrFlrX7c88C9HOItHF7m65HUV4kQMpgHE+2tULH1DE3qmCPie8C4pBs3pcspOybgk\naabNUuWAAdwNHPS/Xs/Ku67fUaFSixHShfJa0Unju92uZg+a263Uns9ZBJzkinkr\njqJaRwn2vT2VMEXH1CYCu+I=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-vhsgv@ciftec-embroidery.iam.gserviceaccount.com",
-  "client_id": "109064910247355601754",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vhsgv%40ciftec-embroidery.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
